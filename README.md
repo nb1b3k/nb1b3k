@@ -9,10 +9,13 @@
 - 💻 I'm open to any collaborations on Bug Bounty Programs.
 
 <h2>GitHub Stats ⭐️ </h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=nb1b3k&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nb1b3k&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"></p>
+
+<h2>Languages ⭐️ </h2>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nb1b3k&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Languages"></p>
 
 # Connect with me on:
-<p><a href="https://www.twitter.com/nb1b3k"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/bibek-neupane-a19ab41aa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://nb1b3k.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-neupane-a19ab41aa) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nb1b3k.medium.com) ![Twitter Follow](https://img.shields.io/twitter/follow/nb1b3k?logo=twitter&style=for-the-badge)
 
 
 ### TryHackMe profile
