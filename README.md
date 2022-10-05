@@ -2,7 +2,7 @@
 
 
 - 📚 I'm a High School Graduate, intending to persue an undergraduate Degree in CS💻
-- 🐱‍👤 I'm currently learning **Web Application Security** and ** Offensive Pentesting **
+- 🐱‍👤 I'm currently learning **Web Application Security** and **Offensive Pentesting**
 - 🕵️‍♀️ I'm an active Bug Bounty Hunter
 - 👱‍♂️ Pronouns: he/him
 - ❤️‍ I love playing with **Burp Suite** and **Firefox**
