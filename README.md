@@ -1,12 +1,12 @@
 ## Hi, I'm Bibek Neupane, a *Web Application Penetration Tester* and a *Bug Bounty Hunter*
 
 
-- 📚 I'm a High School Graduate, intending to persue an undergraduate Degree in CS💻
-- 🐱‍👤 I'm currently learning **Web Application Security** and **Offensive Pentesting**
+- 📚 I'm an undergrad with CS major💻
+- 🐱‍👤 I enjoy **Web Application Security** and **Offensive Pentesting**
 - 🕵️‍♀️ I'm an active Bug Bounty Hunter
 - 👱‍♂️ Pronouns: he/him
 - ❤️‍ I love playing with **Burp Suite** and **Firefox**
-- 💻 I'm open to any collaborations on Bug Bounty Programs.
+- 💻 I'm open to any internship opportunities.
 
 <h2>GitHub Stats ⭐️ </h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=nb1b3k&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"></p>
