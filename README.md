@@ -24,4 +24,4 @@
 
 ### YesWeHack
 
-<a href="https://yeswehack.com/hunters/nb1b3k"><img src="https://mms.businesswire.com/media/20231109253460/en/1939242/22/YWH_Logo_primary.jpg" height=65 width=155></a>
+<a href="https://yeswehack.com/hunters/nb1b3k"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_YesWeHack_2023.png/1200px-Logo_YesWeHack_2023.png" height=65 width=155></a>
