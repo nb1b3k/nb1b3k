@@ -20,7 +20,7 @@
 
 ### TryHackMe profile
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/.nb1b3k.png" alt="TryHackMe">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=987949" style='border:none;'></iframe>
 
 ### YesWeHack
 
