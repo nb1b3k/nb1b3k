@@ -1,27 +1,52 @@
-## Hi, I'm Bibek Neupane, a *Web Application Penetration Tester* and a *Bug Bounty Hunter*
+<h1 align="center">Bibek Neupane</h1>
+<p align="center">
+Security Researcher • Application Security • Vulnerability Research
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nb1b3k&style=flat-square&color=blue" alt="profile views"/>
+</p>
 
-- 📚 I'm an undergrad with CS major💻
-- 🐱‍👤 I enjoy **Web Application Security** and **Offensive Pentesting**
-- 🕵️‍♀️ I'm an active Bug Bounty Hunter
-- 👱‍♂️ Pronouns: he/him
-- ❤️‍ I love playing with **Burp Suite** and **Firefox**
-- 💻 I'm open to any internship opportunities.
+---
 
-<h2>GitHub Stats ⭐️ </h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=nb1b3k&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"></p>
+Computer Science undergraduate interested in **application security, vulnerability research, and offensive security**.
 
-<h2>Languages ⭐️ </h2>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nb1b3k&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Languages"></p>
+Currently a **Research Assistant at the Cybersecurity Research Lab, William Paterson University**, working on research involving **machine learning approaches for malware detection and security analysis**.
 
-# Connect with me on:
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-neupane-a19ab41aa) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nb1b3k.medium.com) ![Twitter Follow](https://img.shields.io/twitter/follow/nb1b3k?logo=twitter&style=for-the-badge)
+---
 
+## GitHub Stats
 
-### TryHackMe profile
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nb1b3k&show_icons=true&theme=tokyonight"/>
+</p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/.nb1b3k.png" alt="Your Image Badge" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb1b3k&layout=compact&theme=tokyonight"/>
+</p>
 
-### YesWeHack
+---
 
-<a href="https://yeswehack.com/hunters/nb1b3k"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_YesWeHack_2023.png/1200px-Logo_YesWeHack_2023.png" height=65 width=155></a>
+## TryHackMe
+
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/.nb1b3k.png"/>
+</p>
+
+---
+
+## YesWeHack
+
+<p align="center">
+<a href="https://yeswehack.com/hunters/nb1b3k">
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_YesWeHack_2023.png/1200px-Logo_YesWeHack_2023.png" height=60>
+</a>
+</p>
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/nb1b3k)  
+[Medium](https://nb1b3k.medium.com)  
+[Twitter](https://twitter.com/nb1b3k)
